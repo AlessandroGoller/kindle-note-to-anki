@@ -14,25 +14,19 @@ To use this script, follow these steps:
 2.  Clone the repository
 3.  Create a virtual environment using the following command:
 
-bashCopy code
 
 `virtualenv env`
 
 1.  Activate the virtual environment. If you are on Mac OS, use the following command:
 
-bashCopy code
 
 `source env/bin/activate`
 
 If you are on Windows, use the following command instead:
 
-bashCopy code
-
 `.\env\Scripts\activate`
 
 1.  Install the required packages by running the following command:
-
-Copy code
 
 `pip install -r requirements.txt`
 
@@ -42,8 +36,6 @@ Usage
 Once you have completed the installation steps, you can use the script as follows:
 
 1.  Start the application by running the following command:
-
-bashCopy code
 
 `python app/main.py`
 
